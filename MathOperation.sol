@@ -4,9 +4,6 @@ pragma solidity ^0.8.9;
 contract MathOperation {
     uint8 public balance = 1;
 
-    // constructor(string memory newMessage){
-    //     message = newMessage;
-    // }
     function decrease() public  {
         // return balance;
         // require();
